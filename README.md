@@ -49,13 +49,13 @@ Install the programming language, development tools, and dependencies required b
 Clone the repository:
 
 ```bash
-git clone https://github.com/abhayvijayan/AgriBrain-AI-Based-Agriculture-Management-System.git
+git clone https://github.com/abhayvijayan/agribrain-ai.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd AgriBrain-AI-Based-Agriculture-Management-System
+cd agribrain-ai
 ```
 
 Install the required dependencies and configure the application according to the project's setup files.
